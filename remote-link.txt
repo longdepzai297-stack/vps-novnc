@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://happen-resolve-prime-penalties.trycloudflare.com/vnc.html
+URL       : https://construction-utilities-unwrap-impaired.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 21:09:36
+Created   : 2026-08-05 02:03:43
 =======================================================
