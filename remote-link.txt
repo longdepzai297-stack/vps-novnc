@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nature-gone-son-parcel.trycloudflare.com/vnc.html
+URL       : https://advertise-presented-dicke-carb.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-14 20:28:08
+Created   : 2026-08-15 00:58:43
 =======================================================
