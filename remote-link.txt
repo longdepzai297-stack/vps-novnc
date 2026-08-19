@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://supplemental-climate-milan-upon.trycloudflare.com/vnc.html
+URL       : https://footwear-sciences-perspective-findlaw.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-18 15:29:04
+Created   : 2026-08-19 00:58:46
 =======================================================
