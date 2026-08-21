@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://triangle-changelog-shaw-lafayette.trycloudflare.com/vnc.html
+URL       : https://renew-tested-helen-indication.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 20:24:15
+Created   : 2026-08-21 01:02:04
 =======================================================
