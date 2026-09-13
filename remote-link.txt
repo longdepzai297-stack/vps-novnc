@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contractor-sim-fastest-mass.trycloudflare.com/vnc.html
+URL       : https://kids-locale-ruby-contractors.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-13 14:05:07
+Created   : 2026-09-13 17:55:01
 =======================================================
