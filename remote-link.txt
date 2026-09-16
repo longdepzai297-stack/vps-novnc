@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://finest-queensland-expertise-interface.trycloudflare.com/vnc.html
+URL       : https://asset-live-home-hugo.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-16 09:40:39
+Created   : 2026-09-16 14:35:17
 =======================================================
