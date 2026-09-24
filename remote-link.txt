@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://given-calendar-management-favor.trycloudflare.com/vnc.html
+URL       : https://lips-lean-registry-top.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-24 02:51:46
+Created   : 2026-09-24 09:42:40
 =======================================================
