@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vertical-shots-pads-editor.trycloudflare.com/vnc.html
+URL       : https://clinic-blast-tex-nations.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-27 18:53:41
+Created   : 2026-09-27 22:47:52
 =======================================================
