@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hose-elimination-island-optical.trycloudflare.com/vnc.html
+URL       : https://enclosure-mary-checklist-jun.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 23:36:29
+Created   : 2026-10-14 03:16:10
 =======================================================
