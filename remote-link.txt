@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contrary-monitoring-warcraft-configurations.trycloudflare.com/vnc.html
+URL       : https://investing-sizes-savannah-candle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 09:55:20
+Created   : 2026-10-14 14:53:38
 =======================================================
