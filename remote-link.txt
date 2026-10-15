@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://difficulties-eat-emotions-farms.trycloudflare.com/vnc.html
+URL       : https://eur-dozen-rat-diversity.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 02:54:36
+Created   : 2026-10-15 09:36:52
 =======================================================
