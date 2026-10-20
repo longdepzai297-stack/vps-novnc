@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pdas-welding-sample-casey.trycloudflare.com/vnc.html
+URL       : https://capacity-existing-warning-menu.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 03:07:41
+Created   : 2026-10-20 09:48:29
 =======================================================
