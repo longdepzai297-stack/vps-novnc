@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://learn-briefing-lab-funny.trycloudflare.com/vnc.html
+URL       : https://describing-metabolism-vegas-acoustic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 22:58:28
+Created   : 2026-10-23 03:07:30
 =======================================================
