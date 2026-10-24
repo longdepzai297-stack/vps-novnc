@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://monitoring-arrive-macintosh-submit.trycloudflare.com/vnc.html
+URL       : https://sociology-therefore-owned-embedded.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 22:53:08
+Created   : 2026-10-24 03:01:10
 =======================================================
