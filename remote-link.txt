@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://busy-hospital-dolls-panels.trycloudflare.com/vnc.html
+URL       : https://prefers-locations-donated-pay.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 03:43:19
+Created   : 2026-10-28 10:58:13
 =======================================================
