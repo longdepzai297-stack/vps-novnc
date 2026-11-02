@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cards-mix-journalists-aluminium.trycloudflare.com/vnc.html
+URL       : https://projectors-legislature-lawyer-conjunction.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 23:20:41
+Created   : 2026-11-02 04:01:29
 =======================================================
