@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://administrator-colors-heading-wto.trycloudflare.com/vnc.html
+URL       : https://end-investigated-discusses-invoice.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 04:49:31
+Created   : 2026-11-06 12:42:37
 =======================================================
